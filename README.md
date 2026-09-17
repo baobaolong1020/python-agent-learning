@@ -34,3 +34,12 @@ False
 - 开始学习 Git 分支
 - 已将本地项目上传到 GitHub
 - 开始学习从 GitHub 拉取代码1
+
+## Git 常用命令
+
+- `git status`：查看状态
+- `git diff`：查看具体修改
+- `git add`：把改动加入暂存区
+- `git commit`：创建本地版本
+- `git push`：上传本地提交
+- `git pull`：拉取远程提交
