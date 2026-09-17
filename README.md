@@ -26,4 +26,9 @@ False
 - 完成 SQLite 和 SQLAlchemy 学习
 - 完成 pytest 自动化测试
 - 正在学习 Git
+## Git 学习记录
 
+- 掌握 git status 查看状态
+- 掌握 git add 添加到暂存区
+- 掌握 git commit 创建本地版本
+- 开始学习 Git 分支
