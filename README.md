@@ -19,3 +19,11 @@ False
 
 完成后把代码和运行结果发给我，我会进行代码评审并带你进入下一步。
 
+## 当前学习进度
+
+- 完成 Python 基础练习
+- 完成 FastAPI 任务管理接口
+- 完成 SQLite 和 SQLAlchemy 学习
+- 完成 pytest 自动化测试
+- 正在学习 Git
+
