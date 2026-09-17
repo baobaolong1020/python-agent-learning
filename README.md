@@ -32,3 +32,4 @@ False
 - 掌握 git add 添加到暂存区
 - 掌握 git commit 创建本地版本
 - 开始学习 Git 分支
+- 已将本地项目上传到 GitHub
