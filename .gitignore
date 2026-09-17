@@ -1,0 +1,21 @@
+# PyCharm 配置
+.idea/
+
+# Python 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 测试和安装工具缓存
+.pytest_cache/
+.uv-cache/
+.package-bootstrap/
+
+# 本地数据库和运行数据
+*.db
+tasks.json
+
+# 环境变量和密钥
+.env
